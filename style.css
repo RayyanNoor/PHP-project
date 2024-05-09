@@ -1,0 +1,48 @@
+
+.navbar-nav .nav-link.active {
+  color: #F0D7D1;
+}
+.navbar-nav {
+  margin: auto;
+  display: flex;
+  justify-content: center;
+}
+.filter-dropdown {
+  background-color: #6B4A3F;
+}
+body {
+  background-color: #C99383;
+  padding: 0;
+  margin: 0;
+}
+.form-container {
+  background-color: #6B4A3F;
+  border-radius: 10px;
+  padding: 20px;
+  color: #C99383;
+  margin-top: 20px;
+}
+.form-control {
+  background-color: #C99383;
+  color: #6B4A3F;
+}
+.form-label {
+  color: #C99383;
+}
+.btn-primary {
+  background-color: #542e23;
+  border-color: #542e23;
+}
+.btn-primary:hover {
+  background-color: #C99383;
+  border-color: #C99383;
+}
+.btn-secondary {
+  background-color: #542e23;
+  border-color: #542e23;
+}
+.btn-secondary:hover {
+  background-color: #C99383;
+  border-color: #C99383;
+}
+
